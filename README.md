@@ -18,9 +18,9 @@ Read project reports to check the results and model comparison.
 
 ## How to use? 
 
-* 1. Each sub folder is for different projects for different data.
-* 2. Each project has its own Readme and project reports.
-* 3. Follow Readme instructions to run the particular project.
+* Each sub folder is for different projects for different data.
+* Each project has its own Readme and project reports.
+* Follow Readme instructions to run the particular project.
 
 
 
